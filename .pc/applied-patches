@@ -1,0 +1,3 @@
+fix-xboxdrv-manpage.patch
+fix-build-flags-parsing.patch
+scons-use-python3-print.patch

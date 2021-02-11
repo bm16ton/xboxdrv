@@ -1,0 +1,12 @@
+Package: xboxdrv-dbgsym
+Source: xboxdrv
+Version: 0.8.8-16
+Auto-Built-Package: debug-symbols
+Architecture: arm64
+Maintainer: Debian Games Team <pkg-games-devel@lists.alioth.debian.org>
+Installed-Size: 8662
+Depends: xboxdrv (= 0.8.8-16)
+Section: debug
+Priority: optional
+Description: debug symbols for xboxdrv
+Build-Ids: dc7a47f9ed56fda2d9b1f0352b61873157fcd4a4
